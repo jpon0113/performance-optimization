@@ -45,7 +45,7 @@ imagemin
 flash Of Invisible Text
 flash Of Unstyled Text
 
-ex: 當網頁字型尚未載入完成,瀏覽器會先給一個預設字型,等到自定義的字型載入完成後,再取代瀏覽器預設字型時,會有一個閃爍更換的moment (swap)
+ex: 當網頁字型尚未載入完成,瀏覽器會先給一個預設字型,等到自定義的字型載入完成後,再取代瀏覽器預設字型時,會有一個閃爍更換的moment
 // font-display
 block
 swap 
